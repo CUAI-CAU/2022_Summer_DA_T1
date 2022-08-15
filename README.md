@@ -19,3 +19,4 @@
 ○ 이를 위하여 112신고접수, 인구관련 데이터, 시설물 데이터 등 다양한 데이터를 활용하여 시민안전 사각지대 분석을 수행하고,시민안전을 최대한 확보할 수 있도록 최적의 CCTV 설치위치를 선정하고자 합니다.
 ## Result
 <img width="242" alt="result" src="https://user-images.githubusercontent.com/100950656/184597542-e3bf7fb0-7945-4733-b470-a66fee6b114f.PNG">
+최종 선정 지역 50곳
